@@ -1,0 +1,5 @@
+install dependencies:
+     > cd shinyblog && npm install
+
+   run the app:
+     > SET DEBUG=shinyblog:* & npm start
